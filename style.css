@@ -1,0 +1,20 @@
+#forms_links {
+    visibility: hidden;
+}
+body {
+    --font-family: 'Inter','Inter Fallback';
+    font-family: var(--font-family),sans-serif;
+    background-color: #fff;
+    color: #000;
+}
+
+#bigbox {
+    width: 33.33vw;
+    margin-left: 33.33vw;
+}
+
+#headlogo {
+    width: 100%;
+    height: auto;
+}
+
